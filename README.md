@@ -66,21 +66,10 @@ This project is open-source and available under the MIT License.
 
 Clone the repository:
 
-git clone https://github.com/your-username/temperature-converter.git
+git clone https://github.com/Gayathripanchavati/Portifolio-website.git
 
 
 Open the project folder.
 
 Launch index.html in your browser.
 
-🎯 Usage
-
-Convert Celsius ↔ Fahrenheit ↔ Kelvin
-
-Use as a learning project for JavaScript DOM & events
-
-Deploy on GitHub Pages, Netlify, or Vercel for live demo
-
-📜 License
-
-This project is open-source under the MIT License.
