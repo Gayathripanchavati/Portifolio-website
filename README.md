@@ -44,7 +44,7 @@ JavaScript – Interactivity
 
 Clone this repository:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Gayathripanchavati/portfolio-website.git
 
 
 Open the folder and launch index.html in your browser.
@@ -62,11 +62,6 @@ Easy way for recruiters to connect
 This project is open-source and available under the MIT License.
 
 
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/Gayathripanchavati/Portifolio-website.git
 
 
 Open the project folder.
